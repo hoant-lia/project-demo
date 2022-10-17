@@ -1,0 +1,19 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+git init
+git add .
+git commit - m" push new project"
+git remote add origin https://github.com/hoant-lia/project-demo.git
+git branch -M main
+git push -u origin main
+git status
+$ git status
+git branch
+git status
+
