@@ -30,6 +30,7 @@ public class TestConnectMySQL {
                 System.out.println(rs.getInt(1) + "  " + rs.getString(2)
                         + "  " + rs.getInt(3));
             }
+            // test git
             // close connection
             conn.close();
         } catch (Exception ex) {
